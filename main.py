@@ -1,4 +1,4 @@
-# dir-dict-the help methods
+# dir-dict-and  help methods
 
 class Person:
     def __init__(self, name, age):
