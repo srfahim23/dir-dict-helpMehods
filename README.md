@@ -43,3 +43,6 @@ help(): The help() function is used to get help documentation for an object, inc
     |  or repr(object).
     |  encoding defaults to sys.   getdefaultencoding().
     |  errors defaults to 'strict'.
+
+
+In conclustion, dir(), dict(), and help() are useful built-in functions in Python that can be used to get information about objects. The are valuable tools for introspection and discovery.    
